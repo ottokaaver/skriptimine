@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# ...
 # kasutajate lisamise failist skript
 if [ $# -ne 1 ]; then
 	echo "Kasutusjuhend: $0 failinimi"
